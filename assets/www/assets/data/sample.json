@@ -1,0 +1,24 @@
+{
+"city" : [
+    {
+    "country":"India",
+    "capital":"New Delhi",
+    "img":"https://c1.hiqcdn.com/customcdn/1024x768/uploadimages/travel/New_Delhi_irctc_cover.jpg" 
+},
+{
+    "country":"United Kingdom",
+    "capital":"London",
+    "img":"https://travel.home.sndimg.com/content/dam/images/travel/fullset/2015/05/28/big-ben-london-england.jpg.rend.hgtvcom.1280.960.suffix/1491582155388.jpeg"
+},
+{
+    "country":"United States",
+    "capital":"Washington D.C.",
+    "img":"https://cdn.history.com/sites/2/2013/11/Washington-DC-hero-H.jpeg"
+},
+{
+    "country":"Russia",
+    "capital":"Moscow",
+    "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Moscow_July_2011-49.jpg/860px-Moscow_July_2011-49.jpg"
+}
+]
+}       
