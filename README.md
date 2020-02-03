@@ -1,4 +1,4 @@
-# Ionic-Application
+# Ionic-Application (Full-Stack)
 ### An android application that illustrates most of the components of the Ionic v2 Framework
 
 ![Screenshot_20200203-180621](https://user-images.githubusercontent.com/40194788/73661966-05e8d980-46c1-11ea-9d93-e964791019e0.jpg)
